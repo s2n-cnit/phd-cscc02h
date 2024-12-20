@@ -4,32 +4,41 @@
 
 ## Materials
 
-| # Lesson | Topic                                                              | Version                                                                                                                 |
-| :------: | :----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-|    01    | Welcome and Context                                                | [![pptx](imgs/pptx.png)](lessons/01.pptx) [![pdf](imgs/pdf.png)](lessons/01.pdf) [![odp](imgs/odp.png)](lessons/01.odp) |
-|    02    | Introduction                                                       | [![pptx](imgs/pptx.png)](lessons/02.pptx) [![pdf](imgs/pdf.png)](lessons/02.pdf) [![odp](imgs/odp.png)](lessons/04.odp) |
-|    03    | Fundamental Network Security Concepts                              | [![pptx](imgs/pptx.png)](lessons/03.pptx) [![pdf](imgs/pdf.png)](lessons/03.pdf) [![odp](imgs/odp.png)](lessons/03.odp) |
-|    04    | Network security and protocols                                     | [![pptx](imgs/pptx.png)](lessons/04.pptx) [![pdf](imgs/pdf.png)](lessons/04.pdf) [![odp](imgs/odp.png)](lessons/04.odp) |
-|    05    | Cryptography and cryptographic algorithms                          | _TBA_                                                                                                                   |
-|    06    | Systems security and vulnerabilities                               | _TBA_                                                                                                                   |
-|    07    | Risk assessment and management                                     | _TBA_                                                                                                                   |
-|    08    | Compliance and regulatory frameworks                               | _TBA_                                                                                                                   |
-|    09    | Virtualization and container security                              | _TBA_                                                                                                                   |
-|    10    | Data privacy and protection                                        | _TBA_                                                                                                                   |
-|    11    | Identity and Access Management (IAM)                               | _TBA_                                                                                                                   |
-|    12    | Cloud Service Provider (CSP) security                              | _TBA_                                                                                                                   |
-|    13    | Cloud native application security                                  | _TBA_                                                                                                                   |
-|    14    | Security analysis and testing                                      | _TBA_                                                                                                                   |
-|    15    | Vulnerability discovery and exploitation                           | _TBA_                                                                                                                   |
-|    16    | Threat modeling and risk assessment                                | _TBA_                                                                                                                   |
-|    17    | Penetration testing and ethical hacking                            | _TBA_                                                                                                                   |
-|    18    | Security incident response and forensics                           | _TBA_                                                                                                                   |
-|    19    | Cloud security automation and orchestration                        | _TBA_                                                                                                                   |
-|    20    | Artificial Intelligence (AI) and Machine Learning (ML) in security | _TBA_                                                                                                                   |
-|    21    | Zero-trust security architectures                                  | _TBA_                                                                                                                   |
-|    22    | Internet of Things (IoT) security                                  | _TBA_                                                                                                                   |
-|    23    | Blockchain and distributed ledger technology security              | _TBA_                                                                                                                   |
-|    24    | Use Case Examples                                                  | _TBA_                                                                                                                   |
+| # Lesson | Topic                                                                                                                                             |
+| :------: | :------------------------------------------------------------------------------------------------------------------------------------------------ |
+|    01    | [Introduction](https://docs.google.com/presentation/d/1pWxsoec2cXxEnsW1a1wvJHAANkAethWSNaHr7Jw95P4/edit?usp=sharing)                              |
+|    02    | [Fundamental Network Security Concepts](https://docs.google.com/presentation/d/1GpNNiGw44oVYYMvrWkAXA-LxJNjCdUsPfkZn9bn4kD0/edit?usp=sharing)     |
+|    03    | [Network security and protocols](https://docs.google.com/presentation/d/1UqVi2pg2i9xo1svxva4JG4_CiZHbUJNgHaiQAosQuaY/edit?usp=sharing)            |
+|    04    | [Cryptography and cryptographic algorithms]()https://docs.google.com/presentation/d/1hH9CeQMHc8WMvsrNY050vMoZ6t7hlhGoOwzoeXG-L3k/edit?usp=sharing |
+
+## Next lessons
+
+| # Lesson | Topic                                                              |
+| :------: | :----------------------------------------------------------------- |
+|    05    | Systems security and vulnerabilities                               |
+|    06    | Risk assessment and management                                     |
+|    07    | Compliance and regulatory frameworks                               |
+|    08    | Virtualization and container security                              |
+|    09    | Data privacy and protection                                        |
+|    10    | Identity and Access Management (IAM)                               |
+|    11    | Cloud Service Provider (CSP) security                              |
+|    12    | Cloud native application security                                  |
+|    13    | Security analysis and testing                                      |
+|    14    | Vulnerability discovery and exploitation                           |
+|    15    | Threat modeling and risk assessment                                |
+|    16    | Penetration testing and ethical hacking                            |
+|    17    | Security incident response and forensics                           |
+|    18    | Cloud security automation and orchestration                        |
+|    19    | Artificial Intelligence (AI) and Machine Learning (ML) in security |
+|    20    | Zero-trust security architectures                                  |
+|    21    | Internet of Things (IoT) security                                  |
+|    22    | Blockchain and distributed ledger technology security              |
+|    23    | Use Case Examples                                                  |
+
+## Extra slides
+
+[Link here](https://docs.google.com/presentation/d/1q7dirMmN11ReT3rIGIOu53mUVoYbKXqMTv7z_P7aAdY/edit?usp=sharing)
+
 
 ## Exams
 
