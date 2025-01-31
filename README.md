@@ -9,33 +9,16 @@
 |    01    | [Introduction](https://docs.google.com/presentation/d/1pWxsoec2cXxEnsW1a1wvJHAANkAethWSNaHr7Jw95P4/edit?usp=sharing)                              |
 |    02    | [Fundamental Network Security Concepts](https://docs.google.com/presentation/d/1GpNNiGw44oVYYMvrWkAXA-LxJNjCdUsPfkZn9bn4kD0/edit?usp=sharing)     |
 |    03    | [Network security and protocols](https://docs.google.com/presentation/d/1UqVi2pg2i9xo1svxva4JG4_CiZHbUJNgHaiQAosQuaY/edit?usp=sharing)            |
-|    04    | [Cryptography and cryptographic algorithms]()https://docs.google.com/presentation/d/1hH9CeQMHc8WMvsrNY050vMoZ6t7hlhGoOwzoeXG-L3k/edit?usp=sharing |
+|    04    | [Cryptography and cryptographic algorithms](https://docs.google.com/presentation/d/1hH9CeQMHc8WMvsrNY050vMoZ6t7hlhGoOwzoeXG-L3k/edit?usp=sharing) |
+|    05    | [Systems security and vulnerabilities](https://docs.google.com/presentation/d/13rbFNO0ZRNxm84vq2fMscqEiRlRh10zO5mmgAdhU0yY/edit?usp=sharing)      |
 
-## Next lessons
+### Next lesson
 
-| # Lesson | Topic                                                              |
-| :------: | :----------------------------------------------------------------- |
-|    05    | Systems security and vulnerabilities                               |
-|    06    | Risk assessment and management                                     |
-|    07    | Compliance and regulatory frameworks                               |
-|    08    | Virtualization and container security                              |
-|    09    | Data privacy and protection                                        |
-|    10    | Identity and Access Management (IAM)                               |
-|    11    | Cloud Service Provider (CSP) security                              |
-|    12    | Cloud native application security                                  |
-|    13    | Security analysis and testing                                      |
-|    14    | Vulnerability discovery and exploitation                           |
-|    15    | Threat modeling and risk assessment                                |
-|    16    | Penetration testing and ethical hacking                            |
-|    17    | Security incident response and forensics                           |
-|    18    | Cloud security automation and orchestration                        |
-|    19    | Artificial Intelligence (AI) and Machine Learning (ML) in security |
-|    20    | Zero-trust security architectures                                  |
-|    21    | Internet of Things (IoT) security                                  |
-|    22    | Blockchain and distributed ledger technology security              |
-|    23    | Use Case Examples                                                  |
+| # Lesson | Topic                                                                                                                                         |
+| :------: | :-------------------------------------------------------------------------------------------------------------------------------------------- |
+|    06    | [Virtualization and container security](https://docs.google.com/presentation/d/1mTCcz0Nc1pW14vsu-XCi1O_UaueM7EJrDm9Xi7i-k40/edit?usp=sharing) |
 
-## Extra slides
+### Extra slides
 
 [Link here](https://docs.google.com/presentation/d/1q7dirMmN11ReT3rIGIOu53mUVoYbKXqMTv7z_P7aAdY/edit?usp=sharing)
 
