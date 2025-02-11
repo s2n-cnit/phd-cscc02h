@@ -14,14 +14,14 @@
 |    06    | [Virtualization & Container Security](https://docs.google.com/presentation/d/1mTCcz0Nc1pW14vsu-XCi1O_UaueM7EJrDm9Xi7i-k40/edit?usp=sharing)     |
 |    07    | [Data Privacy & Protection](https://docs.google.com/presentation/d/14yQv0RDLrgRTyGMhKaJbuMoM-pUSTPdaJCE6g__o9Xw/edit?usp=sharing)               |
 |    08    | [Identity & Access Management (IAM)](https://docs.google.com/presentation/d/1QGowP4qxUp2Ac7g7AM6W4PWOhDn0SjILuplUWVEFZFw/edit?usp=sharing)      |
+|    09    | [Cloud Service Provider (CSP) Security](https://docs.google.com/presentation/d/1aR0YrzLli2Mfg064Jhh39PgYAJ4EX0GpyF8Y-3e1SXs/edit?usp=sharing)   |
+|    10    | [Cloud-Native Application Security](https://docs.google.com/presentation/d/1T5c46n2-PkQ0xFeOfFahKHYWEjUxJ6CMQOUGxBw4g8M/edit?usp=sharing)       |
+|    11    | [Security Analysis & Testing](https://docs.google.com/presentation/d/14hSqppS0PwUjcLbghEOufOsw8ZL9vJZ9g4MDFivL04M/edit?usp=sharing)             |
 
 ### Next lessons
 
 | # Lesson | Topic                                                                                                                                         |
 | :------: | :-------------------------------------------------------------------------------------------------------------------------------------------- |
-|    09    | [Cloud Service Provider (CSP) Security](https://docs.google.com/presentation/d/1aR0YrzLli2Mfg064Jhh39PgYAJ4EX0GpyF8Y-3e1SXs/edit?usp=sharing) |
-|    10    | [Cloud-Native Application Security](https://docs.google.com/presentation/d/1T5c46n2-PkQ0xFeOfFahKHYWEjUxJ6CMQOUGxBw4g8M/edit?usp=sharing)     |
-|    11    | [Security Analysis & Testing](https://docs.google.com/presentation/d/14hSqppS0PwUjcLbghEOufOsw8ZL9vJZ9g4MDFivL04M/edit?usp=sharing)           |
 |    12    | [Vulnerability Discovery& Exploitation](https://docs.google.com/presentation/d/1QfqamhZAFeFlnO1BEHzTzv4-a2bn1pSLghCOubEWajs/edit?usp=sharing) |
 |    13    | [Penetration Testing & Ethical Hacking](https://docs.google.com/presentation/d/1J_3KYgh0ytfyksiSwUBwdG_Zrdcly2Meg1AR5KZjb94/edit?usp=sharing) |
 
