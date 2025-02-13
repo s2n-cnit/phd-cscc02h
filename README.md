@@ -20,11 +20,12 @@
 
 ### Next lessons
 
-| # Lesson | Topic                                                                                                                                         |
-| :------: | :-------------------------------------------------------------------------------------------------------------------------------------------- |
-|    12    | [Vulnerability Discovery& Exploitation](https://docs.google.com/presentation/d/1QfqamhZAFeFlnO1BEHzTzv4-a2bn1pSLghCOubEWajs/edit?usp=sharing) |
-|    13    | [Penetration Testing & Ethical Hacking](https://docs.google.com/presentation/d/1J_3KYgh0ytfyksiSwUBwdG_Zrdcly2Meg1AR5KZjb94/edit?usp=sharing) |
-
+| # Lesson | Topic                                                                                                                                             |
+| :------: | :------------------------------------------------------------------------------------------------------------------------------------------------ |
+|    12    | [Vulnerability Discovery& Exploitation](https://docs.google.com/presentation/d/1QfqamhZAFeFlnO1BEHzTzv4-a2bn1pSLghCOubEWajs/edit?usp=sharing)     |
+|    13    | [Penetration Testing & Ethical Hacking](https://docs.google.com/presentation/d/1J_3KYgh0ytfyksiSwUBwdG_Zrdcly2Meg1AR5KZjb94/edit?usp=sharing)     |
+|    14    | [Security Incident Response & Forensics](https://docs.google.com/presentation/d/1n5P3sSKyeqxS9Bt6bbnVjsTfnnZlUawYUzzcWkcI9pA/edit?usp=sharing)    |
+|    15    | [Cloud Security Automation & Orchestration](https://docs.google.com/presentation/d/1hXVhYRVChZGk-Jrzrk-D0tpZqpCmQy6Bl_Rj5uhPkic/edit?usp=sharing) |
 
 ### Extra slides
 
