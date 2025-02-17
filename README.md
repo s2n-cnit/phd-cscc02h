@@ -27,6 +27,7 @@
 |    14    | [Security Incident Response & Forensics](https://docs.google.com/presentation/d/1n5P3sSKyeqxS9Bt6bbnVjsTfnnZlUawYUzzcWkcI9pA/edit?usp=sharing)                           |
 |    15    | [Cloud Security Automation & Orchestration](https://docs.google.com/presentation/d/1hXVhYRVChZGk-Jrzrk-D0tpZqpCmQy6Bl_Rj5uhPkic/edit?usp=sharing)                        |
 |    16    | [Artificial Intelligence (AI) & Machine Learning (ML) in Security](https://docs.google.com/presentation/d/1bLxWze7NxPxA_AUNWLr_hNnYkDYCtZ1Qq65DkDpftq4/edit?usp=sharing) |
+|    17    | [Zero-Trust Security Architectures](https://docs.google.com/presentation/d/1QL3ZxEMq6I-bswjkKGY-YYsi0JwDky21Iswe4kwXWss/edit?usp=sharing) |
 
 ### Extra slides
 
