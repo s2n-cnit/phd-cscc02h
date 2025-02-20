@@ -19,15 +19,15 @@
 |    11    | [Security Analysis & Testing](https://docs.google.com/presentation/d/14hSqppS0PwUjcLbghEOufOsw8ZL9vJZ9g4MDFivL04M/edit?usp=sharing)             |
 |    12    | [Vulnerability Discovery& Exploitation](https://docs.google.com/presentation/d/1QfqamhZAFeFlnO1BEHzTzv4-a2bn1pSLghCOubEWajs/edit?usp=sharing)                            |
 |    13    | [Penetration Testing & Ethical Hacking](https://docs.google.com/presentation/d/1J_3KYgh0ytfyksiSwUBwdG_Zrdcly2Meg1AR5KZjb94/edit?usp=sharing)                            |
+|    14    | [Security Incident Response & Forensics](https://docs.google.com/presentation/d/1n5P3sSKyeqxS9Bt6bbnVjsTfnnZlUawYUzzcWkcI9pA/edit?usp=sharing)                           |
+|    15    | [Cloud Security Automation & Orchestration](https://docs.google.com/presentation/d/1hXVhYRVChZGk-Jrzrk-D0tpZqpCmQy6Bl_Rj5uhPkic/edit?usp=sharing)                        |
+|    16    | [Artificial Intelligence (AI) & Machine Learning (ML) in Security](https://docs.google.com/presentation/d/1bLxWze7NxPxA_AUNWLr_hNnYkDYCtZ1Qq65DkDpftq4/edit?usp=sharing) |
+|    17    | [Zero-Trust Security Architectures](https://docs.google.com/presentation/d/1QL3ZxEMq6I-bswjkKGY-YYsi0JwDky21Iswe4kwXWss/edit?usp=sharing)                                |
 
 ### Next lessons
 
 | # Lesson | Topic                                                                                                                                                                    |
 | :------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|    14    | [Security Incident Response & Forensics](https://docs.google.com/presentation/d/1n5P3sSKyeqxS9Bt6bbnVjsTfnnZlUawYUzzcWkcI9pA/edit?usp=sharing)                           |
-|    15    | [Cloud Security Automation & Orchestration](https://docs.google.com/presentation/d/1hXVhYRVChZGk-Jrzrk-D0tpZqpCmQy6Bl_Rj5uhPkic/edit?usp=sharing)                        |
-|    16    | [Artificial Intelligence (AI) & Machine Learning (ML) in Security](https://docs.google.com/presentation/d/1bLxWze7NxPxA_AUNWLr_hNnYkDYCtZ1Qq65DkDpftq4/edit?usp=sharing) |
-|    17    | [Zero-Trust Security Architectures](https://docs.google.com/presentation/d/1QL3ZxEMq6I-bswjkKGY-YYsi0JwDky21Iswe4kwXWss/edit?usp=sharing)                                |
 |    18    | [Internet of Things (IoT) Security](https://docs.google.com/presentation/d/157PJP2beoVYuaua082vKAa97tfFLk33tM0itUYxmtoI/edit?usp=sharing)                                |
 |    19    | [Blockchain & Distributed Ledger Technology Security](https://docs.google.com/presentation/d/1FoAHRt8WTxxz65AqmcDgmNLkJ3G8nU2gAjc4-XSdNSc/edit?usp=sharing)              |
 
